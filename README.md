@@ -5,7 +5,7 @@ Design and Programming<br>
 Antonio de SOUSA DIAS<br>
 a.sousadias@belasartes.ulisboa.pt
 
-- Current release: https://github.com/asousadias/
+- Current release: https://github.com/asousadias/Messiaen_ModeValeurs1949/files/4568286/messiaen_1949_mode_de_valeurs_et_d_intensites.zip
 
 ## Description:
 The modeling of Olivier Messiaen's "Mode de valeurs et d'intensités" (1949) started as a challenge, regarding a remark by André Riotte, in one of his 1991 seminars I attended at IRCAM on computer analysis, arguing that analysis should be complemented by synthesis as a confirmation of the analytical process.<br/>
